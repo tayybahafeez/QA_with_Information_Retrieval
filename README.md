@@ -24,8 +24,8 @@ This project demonstrates the integration of a generative AI model with PDF docu
 
 1. **Clone the Repository**:
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-folder>
+    git clone https://github.com/tayybahafeez/QA_with_Information_Retrieval.git
+    cd QA_with_Information_Retrieval
     ```
 
 2. **Create a Virtual Environment**:
